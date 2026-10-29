@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | [🇪🇬 العربية](README.ar.md)
 # Headless Collective
 
 **Knowledge is shared. Building is for everyone.**
